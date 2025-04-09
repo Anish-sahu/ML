@@ -1,6 +1,6 @@
 # Machine Learning Lab Repository
 
-This repository contains **10 practical assignments** for the **Machine Learning Lab** course, part of the **Bachelor of Technology (B.Tech)** program in **Computer Engineering**. These practicals are implemented as Jupyter Notebook files (`.ipynb`) and cover fundamental concepts and algorithms in machine learning.
+This repository contains **10 practical assignments** for the **Machine Learning Lab** course, part of the **Bachelor of Technology (B.Tech)** program in **Information Technology**. These practicals are implemented as Jupyter Notebook files (`.ipynb`) and cover fundamental concepts and algorithms in machine learning.
 
 ## Course Details
 - **Course Code:** U23CEPC607  
